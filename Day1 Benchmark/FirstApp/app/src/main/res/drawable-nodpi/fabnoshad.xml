@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This creates a floating action button WITHOUT shadow -->
+<!-- Mostly use this to get rid of any background of a button, setting color to white for now -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:background="@drawable/background"/>
+</shape>

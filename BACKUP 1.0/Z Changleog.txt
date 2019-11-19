@@ -1,0 +1,14 @@
+Quirkboard 1.0
+Bryce Eller
+Tushar Chawla
+Cassidy Clement
+Christian Craft
+Brian Atchley
+Justin Petrecz
+
+-Scrollable background
+-Three buttons
+	-Home button outputs the android id
+	-Post button opens a sticky with the GPS location 
+	-Settings button opens a temp "you page"
+-It has our sweet-nasty tack icon
